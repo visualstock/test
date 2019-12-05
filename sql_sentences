@@ -1,0 +1,3 @@
+a) SELECT * FROM Games WHERE status='A'
+b) SELECT * FROM Teams
+c) SELECT * FROM Games WHERE game_date='2018-07-15'
